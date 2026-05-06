@@ -140,7 +140,7 @@ A simple unit converter application that converts values from kilograms to pound
 
 **Umar Jawad**
 Junior Native Android Developer
-GitHub: [https://github.com/umar763465](https://github.com/umar763465)
+GitHub: [https://github.com/umar763465](https://github.com/umarjawad123)
 
 ---
 
